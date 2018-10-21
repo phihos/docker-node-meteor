@@ -1,2 +1,2 @@
-# docker-node-meteor
+# dDocker Node Meteor
 A Docker image containing an already installed version of meteor.
